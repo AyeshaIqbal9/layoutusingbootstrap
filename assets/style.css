@@ -1,0 +1,9 @@
+.container{
+    border:solid black 2px;
+}
+.row{
+    border:solid red 2px;
+}
+.col{
+    border: solid green 2px;
+}
